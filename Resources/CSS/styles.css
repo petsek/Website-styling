@@ -1,0 +1,124 @@
+/*font-family: 'Rubik', sans-serif;
+font-family: 'Rubik Beastly', cursive;
+font-family: 'Rubik Bubbles', cursive;
+font-family: 'Rubik Mono One', sans-serif;
+font-family: 'Rubik Puddles', cursive;
+font-family: 'Rubik Wet Paint', cursive; */
+
+* {
+  background-color: rgb(110, 105, 105);
+  font-family: 'Rubik', sans-serif;
+  color: white;
+}
+
+img {
+  display: block;
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  margin-bottom: 70px;
+}
+
+h2 {
+  font-size: 30px;
+  padding-left: 30px;
+}
+
+.color_container {
+  border-top: 3px solid white;
+  margin-bottom: 100px;
+}
+
+.font_container {
+  border-top: 3px solid white;
+  margin-bottom: 100px;
+}
+
+.square {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  border: 8px solid black;
+  margin: 10px;
+  background-color: transparent;
+  text-align: center;
+}
+
+p {
+  background-color: inherit;
+  font-size: 20px;
+}
+
+.p_color {
+  padding-top: 60px;
+}
+
+.blue {
+  background-color: #0046ad;
+  margin-left: 50px;
+}
+
+.orange {
+  background-color: #ff5800;
+}
+
+.green {
+  background-color: #009b48;
+}
+
+.yellow {
+  background-color: #ffd500;
+}
+
+.white {
+  background-color: #ffffff;
+}
+
+.red {
+  background-color: #b71234;
+}
+
+
+.rubik {
+  font-family: 'Rubik', sans-serif;
+}
+
+.rubik_mono {
+  font-family: 'Rubik Mono One', sans-serif;
+}
+
+.rubik_wetp {
+  font-family: 'Rubik Wet Paint', cursive;
+}
+
+.rubik_bubbles {
+  font-family: 'Rubik Bubbles', cursive;
+}
+
+.rubik_puddles {
+  font-family: 'Rubik Puddles', cursive;
+}
+
+.rubik_beastly {
+  font-family: 'Rubik Beastly', cursive;
+}
+
+.so {
+  margin-top: 60px;
+}
+
+.p_font {
+  padding-top: 20px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.white p {
+  color: black;
+}
